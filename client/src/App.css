@@ -1,4 +1,8 @@
-.uploadImagePanel{
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .uploadImagePanel {
   margin-left: 100px;
   margin-top: 100px;
   margin-bottom: 100px;
@@ -7,21 +11,21 @@
   height: 300px;
 }
 
-.Main{
+.Main {
   padding: 50px;
 }
 
-.fileUpload{
+.fileUpload {
   width: 100%;
   margin-bottom: 50px;
   cursor: pointer;
 }
 
-button{
+button {
   cursor: pointer;
 }
 
-.result{
+.result {
   margin-left: 30px;
   padding-bottom: 30px;
-}
+} */

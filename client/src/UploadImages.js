@@ -5,7 +5,7 @@ import axios from "axios";
 const UploadImages = () => {
   const [file, setFile] = useState();
   const [filename, setFilename] = useState();
-  const [link, setLink] = useState("null");
+  const [link, setLink] = useState(null);
 
   async function handleClick(event) {
     event.preventDefault();
